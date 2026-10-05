@@ -1,0 +1,67 @@
+BUSINESS SALES PERFORMANCE ANALYTICS
+
+INSIGHTS AND RECOMMENDATIONS:
+-------------------------------------------------
+
+SUMMARY
+--------------------------------------------------
+The business grew strongly and reached its best year in 2017, but growth in sales did not always turn into profit. Furniture, three loss-making sub-categories, and heavy discounting are the main areas where profit is being lost. The biggest opportunities are to fix discounting, improve Furniture margins, and prepare for the busy September to December season.
+
+
+KEY BUSINESS INSIGHTS
+--------------------------------------------------
+
+1. Overall Business Performance
+The business generated approximately $2.30 million in total sales and $286.18 thousand in total profit from 5,009 orders. The overall profit margin was 12.46%.
+
+2. Sales and Profit Trend
+Sales increased substantially from 2015 onward. 2017 recorded the highest annual sales and profit in the analyzed period, which shows stronger business performance toward the end of the period.
+
+3. Seasonal Sales Pattern
+Sales varied significantly by month. November recorded the highest monthly sales at approximately $352.46 thousand, while February recorded the lowest at approximately $59.75 thousand. Sales were particularly high from September to December.
+
+4. Category Performance
+Technology generated the highest total sales and profit among the three categories. Furniture generated relatively high sales but had a much lower profit margin of approximately 2.49%, compared with approximately 17.40% for Technology and 17.04% for Office Supplies.
+
+5. Regional Performance
+The West region generated the highest sales and profit among the four regions, with approximately $725.46 thousand in sales and $108.42 thousand in profit.
+
+6. Loss-Making Sub-Categories
+Tables, Bookcases, and Supplies recorded negative total profit. Tables had the largest loss at approximately $17.73 thousand.
+
+7. Discount and Profitability
+Higher discount levels were generally associated with lower profitability. Several higher discount levels recorded negative total profit, so discounts need to be judged together with profit rather than on their own.
+
+8. Sales Do Not Always Mean Profitability
+High sales do not necessarily result in high profit. Furniture is the clearest example: relatively high sales but a very low margin. Some sub-categories also generated sales while recording negative profit.
+
+
+BUSINESS RECOMMENDATIONS
+--------------------------------------------------
+
+1. Optimize Discounting (Based on Insight 7)
+Review high-discount transactions and set discount limits that protect profitability. Evaluate discounts alongside product and category margins before approving them.
+
+2. Improve Furniture Profitability (Based on Insights 4 and 8)
+Analyze Furniture products to understand the impact of pricing, discounts, and product costs. Focus on improving margin rather than increasing sales alone.
+
+3. Investigate Loss-Making Sub-Categories (Based on Insight 6)
+Carry out product-level analysis for Tables, Bookcases, and Supplies to find the products contributing most to losses. Review their pricing, discounts, costs, and sales performance, and decide whether to reprice, reduce discounts, or limit the range.
+
+4. Plan for Seasonal Demand (Based on Insight 3)
+Use the monthly sales pattern to plan inventory, promotions, and sales resources ahead of the high-demand period from September to December. Consider targeted promotions in low months such as February.
+
+5. Monitor Top-Selling Products (Based on Insight 8)
+Track the availability, sales, and profitability of top-selling products. Make sure strong revenue also contributes to profit.
+
+6. Focus on Profitable Growth (Based on Insights 1, 4, 5, and 8)
+Use Sales, Profit, and Profit Margin together when evaluating products, categories, and regions. Business decisions should aim for profitable growth rather than sales growth alone.
+
+ANALYSIS NOTES AND LIMITATIONS
+--------------------------------------------------
+
+- The discount analysis shows an association between higher discounts and lower profitability in this dataset. It does not prove that discounts directly caused the losses. Further analysis would be needed to establish causation.
+
+- Category, regional, and sub-category results are based on totals. Individual products or orders within each group may behave differently, which is why product-level analysis is recommended.
+
+- The insights and recommendations are based on the cleaned Superstore sales dataset used for this project.
